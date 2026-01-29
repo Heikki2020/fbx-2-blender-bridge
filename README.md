@@ -6,7 +6,7 @@ Double-click an FBX file to open it in Blender.
 
 <https://www.nexusmods.com/site/mods/1663>
 
-After years of modding, I got sick of manually importing an. FBX file or more into Blender.
+After years of modding, I got sick of manually importing an .FBX file or more into Blender.
 
 This app can let you double-click an .FBX file to open it in Blender.  
 In other words, this app tells Blender to automatically import the .FBX file you have just double-clicked.  
