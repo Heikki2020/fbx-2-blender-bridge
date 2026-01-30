@@ -6,17 +6,12 @@ Double-click an FBX file to open it in Blender.
 
 <https://www.nexusmods.com/site/mods/1663>
 
-After years of modding, I got sick of manually importing an .FBX file or more into Blender.  
-And there isn't any good FBX viewer. Can you believe that?  
-I need one that fits my workflow, as I often have dozens of .FBX files in a folder.
+After years of modding, I got tired of manually importing one or more `.FBX` files into Blender. And somehow, there still isn’t a good standalone FBX viewer—can you believe that?
 
-This app can let you double-click an .FBX file to open it in Blender.  
-In other words, this app tells Blender to automatically import the .FBX file you have just double-clicked.  
-You still have to import multiple .FBX files like before, though.
+I needed something that fit my workflow, especially since I often work with dozens of `.FBX` files in a single folder. This app lets you simply double-click an `.FBX` file and have it open directly in Blender. In other words, it tells Blender to automatically import the `.FBX` file you just double-clicked.
 
-To use this app, right-click an .FBX file, choose "Open with..." and find this app in the pop-up.  
-You also need to select the "Always use this app to open .FBX files" to make it permanent.
+You’ll still need to import multiple `.FBX` files the usual way, but for quick previews, this makes things much faster. To use the app, right-click an `.FBX` file, choose **“Open with…”**, and select this app from the list. Be sure to check **“Always use this app to open .FBX files”** to make it permanent.
 
-Next, when it starts for the first time, this app will look for Blender at the default install location.  
-Or it will ask you to find Blender manually and write a small config file in your user folder.  
-Now, with this app acting like a bridge, Blender is basically a full-featured FBX viewer.
+The first time it runs, the app will look for Blender in the default installation location. If it can’t find it, it will prompt you to locate Blender manually and then write a small config file to your user folder.
+
+With this app acting as a bridge, Blender effectively becomes a full-featured FBX viewer.
