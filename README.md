@@ -1,4 +1,4 @@
-# FBX to Blender - A Bridging App
+# Double-Click FBX Viewer: A Blender Bridging App
 
 Double-click an FBX file to import it into Blender.
 
